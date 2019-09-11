@@ -1571,7 +1571,16 @@ Portfolio section style
 }
 
 
+.overlay{
+	position:absolute;
+	opacity: 1;
+	left:15px;
+	height:100%;
+}
 
+.image:hover .overlay{
+
+}
 
 /*
 Skill Section style
