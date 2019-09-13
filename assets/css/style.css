@@ -1390,6 +1390,12 @@ Skill Section style
 	background-image: url("../images/background/work.jpg");
 }
 
+#about{
+	background-image: url("../images/nancy.jpg");
+	background-size: 100% 165%;
+	background-repeat: no-repeat;
+}
+
 .main_skill {
 	display: flex;
 	flex-basis: 100%;
