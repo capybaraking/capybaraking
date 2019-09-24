@@ -1361,7 +1361,7 @@ Portfolio section style
   
   .text {
 	color: white;
-	font-size: 140%;
+	font-size: 20px;
 	position: absolute;
 	top: 50%;
 	left: 50%;
@@ -1662,5 +1662,24 @@ Footer Section style
 
 	.navbar-expand-lg .navbar-nav > li {
 		margin-left: 0px;
+	}
+}
+
+@media(max-width:600px){
+	.container{
+		padding-left:50px;
+		padding-right:50px;
+	}
+
+}
+
+@media(max-width:900px){
+	.full{
+		padding-left:50px;
+		padding-right:50px;
+	}
+
+	.text{
+		font-size:12px;
 	}
 }
