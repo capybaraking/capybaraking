@@ -1682,4 +1682,22 @@ Footer Section style
 	.text{
 		font-size:12px;
 	}
+
+	.col-xl-4{
+		padding-right:50px;
+	}
+
+	
+}
+
+@media(max-width:1300px){
+	.col-xl-4{
+		padding-right:50px;
+	}
+
+	.h1_project{
+		padding-top:50px;
+	}
+
+	
 }
